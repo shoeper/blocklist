@@ -1,0 +1,12 @@
+! Title: shoeper filters
+! Expires: 7 days
+! Description: Filters optimized for uBlock, to be used along EasyList
+! Homepage: https://github.com/shoeper/blocklist
+! Licence: https://github.com/shoeper/blocklist
+! 
+! GitHub issues: https://github.com/shoeper/blocklist/issues
+! GitHub pull requests: https://github.com/shoeper/blocklist/pulls
+! 
+! Last updated: 2018-09-14
+!
+www.kaffee-netz.de##li.message.sectionMain.Anzeige
